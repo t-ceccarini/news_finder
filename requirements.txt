@@ -1,0 +1,7 @@
+langgraph
+langchain-scrapegraph
+langchain-openai
+langchain-community>=0.2.11
+tavily-python
+pydantic
+pandas

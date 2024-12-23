@@ -1,0 +1,8 @@
+# Ignora le cartelle .venv
+.venv/
+
+# Ignora tutti i file .csv
+*.csv
+
+# Ignora le cartelle __pycache__ e tutto il loro contenuto
+__pycache__/
